@@ -8,8 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Finish
 
-test-workflow
-_You've now added a fully functioning workflow to your repository! :smile::wink:_
+_:smile::wink:_
 _Congratulations friend, you've completed this course!_
 
 
